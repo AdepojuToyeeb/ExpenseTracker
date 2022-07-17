@@ -1,0 +1,31 @@
+.data {
+    background-color: darkslategray;
+    margin: 0 auto;
+    border-bottom: 2px solid black;
+    width: 50%;
+    color: white;
+    
+}
+.data-content {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.data-name {
+    padding: 20px;
+}
+
+.data-date{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 1px solid #ececec;
+    background-color: #2a2a2a;
+    width: 5.5rem;
+    height: 5.5rem;
+    color: white;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+
+}
